@@ -9,8 +9,9 @@ The task in this project is to extract and analyse the various characteristics o
 – or output some Latex code, to be stored in a file, from which a pictorial representation of the polygons can be produced, coloured in a way which is proportional to their area.
 
 for instance, given the input as:
-
+![Home](img/input.png)
 
 the program is required to output a pictorial representation of the polygons:
+![Home](img/output.png)
 
 There are many more samples of acceptable and not acceptable input
